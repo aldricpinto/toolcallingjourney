@@ -1,0 +1,6 @@
+langgraph
+langchain-groq
+mcp
+langchain-mcp-adapters
+python-dotenv
+langchain
