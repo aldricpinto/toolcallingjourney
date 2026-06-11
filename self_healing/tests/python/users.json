@@ -1,0 +1,6 @@
+[
+    {"name": "Alice", "profile": {"age": 30}},
+    {"name": "Bob", "profile": {"age": 25}},
+    {"name": "Charlie", "profile": {"age": 35}},
+    {"name": "Diana", "profile": {"age": 28}}
+]
